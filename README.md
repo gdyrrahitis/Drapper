@@ -4,6 +4,8 @@
 [![Nuget status](https://buildstats.info/nuget/drapper)](https://www.nuget.org/packages/Drapper.Validation/)
 
 # Drapper
+
+[![Join the chat at https://gitter.im/Drapper-buddies/Lobby](https://badges.gitter.im/Drapper-buddies/Lobby.svg)](https://gitter.im/Drapper-buddies/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 A data access / object composition library built on top of Dapper
 
 
